@@ -18,7 +18,7 @@ return (
         src="/logo.svg"
         width={173}
         height={39}
-        alt="Finance AI"
+        alt="IA Finance"
         className="mb-8"
         />
         <h1 className="mb-3 text-4xl font-bold">Bem-vindo</h1>
